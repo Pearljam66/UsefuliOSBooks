@@ -35,6 +35,7 @@ A repository with a list of useful books and websites for learning about iOS and
 - Animating SwiftUI Applications by Stephen Destefano
 - SwiftUI for Masterminds: iOS 17 by J.D Gauchat
 - https://www.hackingwithswift.com/100/swiftui
+- https://www.swiftuifieldguide.com
 
 ## Swift:
 - Data Structures and Algorithms in Swift by Kelvin Lau & Vincent Ngo
