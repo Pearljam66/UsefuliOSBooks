@@ -9,7 +9,7 @@ A repository with a list of useful books and websites for learning about iOS and
 - MacOS Apprentice: Begineers Guide to macOS App Development by the Kodeco Team & Sarah Reichelt
 
 ## WatchOS:
-watchOS With SwiftUI by Tutorials by the Kodeco Team & Scott Grosch
+- watchOS With SwiftUI by Tutorials by the Kodeco Team & Scott Grosch
 
 ## UIKit:
 - UIKit for Masterminds: iOS 15 by J.D Gauchet
