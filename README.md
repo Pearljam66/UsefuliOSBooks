@@ -42,6 +42,7 @@ A repository with a list of useful books and websites for learning about iOS and
 - Expert Swift: An Advanced Exploration of the Swift Language by Ehab Amer, Marin Benčević, Ray Fix, and Shai Mishali
 - https://www.hackingwithswift.com/100
 - https://www.swift.org/documentation/
+- https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/#app-top
 - https://docs.swift.org/swift-book/documentation/the-swift-programming-language
 - https://swiftrocks.com
 
