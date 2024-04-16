@@ -46,6 +46,9 @@ A repository with a list of useful books and websites for learning about iOS and
 - https://docs.swift.org/swift-book/documentation/the-swift-programming-language
 - https://swiftrocks.com
 
+## Swift and C++:
+- https://www.swift.org/documentation/cxx-interop/
+
 ## Objective-C:
 - Learning Cocoa with Objective-C by Paris Buttfield-Addison & Jonathon Manning & Tim Nugent
 
