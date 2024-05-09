@@ -45,6 +45,7 @@ A repository with a list of useful books and websites for learning about iOS and
 - https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/#app-top
 - https://docs.swift.org/swift-book/documentation/the-swift-programming-language
 - https://swiftrocks.com
+- Classes v. Structs v. Actors: https://www.youtube.com/watch?v=-JLenSTKEcA
 
 ## Swift and C++:
 - https://www.swift.org/documentation/cxx-interop/
