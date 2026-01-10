@@ -53,6 +53,7 @@ A repository with a list of useful books and websites for learning about iOS and
 - Advanced Swift book: https://books.nilcoalescing.com/swift-gems
 - https://nilcoalescing.com
 - https://tanaschita.com
+- 3DaysOfSwift.com
 
 ## Swift and C++:
 - https://www.swift.org/documentation/cxx-interop/
