@@ -40,6 +40,7 @@ A repository with a list of useful books and websites for learning about iOS and
 - SwiftUI for Masterminds: iOS 18 by J.D Gauchat
 - https://www.hackingwithswift.com/100/swiftui
 - https://www.swiftuifieldguide.com
+- [The SwiftUI Way: A field guide to SwiftUI patterns and anti-patterns](https://books.nilcoalescing.com/the-swiftui-way)
 
 ## Swift:
 - Data Structures and Algorithms in Swift by Kelvin Lau & Vincent Ngo
